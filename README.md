@@ -8,4 +8,4 @@ Collection of PyTorch-related utility functions. Currently, this package and its
 
 ## Documentation
 
-- [Cyclical Learning Rate Scheduler](./docs/sources/examples/CyclicalLearningRate.ipynb)
+- [Cyclical Learning Rate Scheduler](docs/sources/examples/CyclicalLearningRate.ipynb)
